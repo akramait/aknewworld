@@ -1,0 +1,21 @@
+p{ 
+    color: red
+}
+.x{  animation: color 10s;
+ 
+}@keyframes color{
+from{background: orange;}
+10%{background: orangered;}
+20%{background: orchid;}
+30%{background:blueviolet}
+40%{background:brown}
+50%{background:cadetblue}
+60%{background:chartreuse}
+70%{background:cyan}
+80%{background:darkgoldenrod}
+90%{background:darkred}
+to{background:rgba(15, 14, 14, 0.562);} }
+html{
+  
+    background-color: black
+}
